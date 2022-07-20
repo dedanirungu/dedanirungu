@@ -4,14 +4,8 @@
 Here are some ideas to get you started:
 -->
 <img width="100%" src="https://dedanirungu.github.io/dedanirungu/github-top-banner.jpg" />
-<h3>Hi, I’m Dedan Irungu.<h3>
-<p>👀 I’m interested in improving business processes through automation.</p>
 
-
-- 👀 I’m interested in improving business processes through automation.
 - 🌱 Cureently I’m actively working on Mybizna ERP and Utupress sitebuilder.
-- 💞️ I’m looking to help in making ERP and Sitebuilder Possible.
-- 📫 How to reach me: email: dedanirungu@gmail.com, Phone: +254713034569 
 
 ### Backend Languages
 
