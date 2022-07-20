@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to help in making ERP and Sitebuilder Possible.
 - 📫 How to reach me: email: dedanirungu@gmail.com, Phone: +254713034569 
 
-## Achievements:
+## What I Do:
 
 ### Backend Languages
 
@@ -55,27 +55,21 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-🧬%20Utupress%20SiteBuilder-000)](https://github.com/utupress/utupress)
 
 
+<a href="https://www.mybizna.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=dedanirungu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedanirungu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+
 ## Achievements:
  
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=dedanirungu" />
 
 
-<a href="https://www.mybizna.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=dedanirungu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedanirungu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
 
 
 ## 📊 GitHub Statistics
 #### Score
-<h6 >Profile Views: <img src="https://profile-counter.glitch.me/dedanirungu/count.svg" width="150px"/></h6>
-<a href="https://github.com/dedanirungu/dedanirungu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dedanirungu&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Dedan Irungu's GitHub Stats" />
-</a><a href="https://github.com/dedanirungu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedanirungu&theme=highcontrast" />
-</a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dedanirungu&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
-
 
 #### Graph:
 <!-- https://github.com/dedanirungu/github-readme-activity-graph -->
 <a href="https://github.com/dedanirungu/github-readme-activity-graph"><img alt="Levy Cotech's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=dedanirungu&bg_color=1F222E&color=F8D866&line=31e981&point=FFFFFF&hide_border=true" /></a>
+
+<h6 >Profile Views: <img src="https://profile-counter.glitch.me/dedanirungu/count.svg" width="150px"/></h6>
