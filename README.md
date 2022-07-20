@@ -7,28 +7,7 @@ Here are some ideas to get you started:
     <h3>Hi, I’m Dedan Irungu.<h3>
      <p>👀 I’m interested in improving business processes through automation.</p>
 </div>
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-            h1 {
-                color: red;
-                animation: mymove 2s infinite;
-            }
-
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
-            </style>
-            <h1>HELLO WORLD!</h1>
-        </div>
-    </foreignObject>
-</svg>
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml"><style>h1 {color: red;animation: mymove 2s infinite;}@keyframes mymove {from {color: red;}to {color: yellow;}}</style><h1>Hi, I’m Dedan Irungu.</h1></div></foreignObject></svg>
      
 - 👀 I’m interested in improving business processes through automation.
 - 🌱 Cureently I’m actively working on Mybizna ERP and Utupress sitebuilder.
