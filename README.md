@@ -3,12 +3,11 @@
 
 Here are some ideas to get you started:
 -->
-<div style="text-align:center; color:white; background: rgb(34,193,195); background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(198,45,253,1) 100%);">
-    <h3>Hi, I’m Dedan Irungu.<h3>
-     <p>👀 I’m interested in improving business processes through automation.</p>
-</div>
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml"  style="text-align:center; color:white; background: rgb(34,193,195); background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(198,45,253,1) 100%);"><h1>Hi, I’m Dedan Irungu.</h1></div></foreignObject></svg>
-     
+<img width="100%" src="https://dedanirungu.github.io/dedanirungu/github-top-banner.jpg" />
+<h3>Hi, I’m Dedan Irungu.<h3>
+<p>👀 I’m interested in improving business processes through automation.</p>
+
+
 - 👀 I’m interested in improving business processes through automation.
 - 🌱 Cureently I’m actively working on Mybizna ERP and Utupress sitebuilder.
 - 💞️ I’m looking to help in making ERP and Sitebuilder Possible.
