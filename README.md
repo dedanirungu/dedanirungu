@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to help in making ERP and Sitebuilder Possible.
 - 📫 How to reach me: email: dedanirungu@gmail.com, Phone: +254713034569 
 
-## What I Do:
-
 ### Backend Languages
 
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
@@ -62,13 +60,6 @@ Here are some ideas to get you started:
  
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=dedanirungu" />
 
-
-
-
-## 📊 GitHub Statistics
-#### Score
-
-#### Graph:
 <!-- https://github.com/dedanirungu/github-readme-activity-graph -->
 <a href="https://github.com/dedanirungu/github-readme-activity-graph"><img alt="Levy Cotech's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=dedanirungu&bg_color=1F222E&color=F8D866&line=31e981&point=FFFFFF&hide_border=true" /></a>
 
