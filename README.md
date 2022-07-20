@@ -1,11 +1,13 @@
-### Hi there 👋
-
 <!--
 **dedanirungu/dedanirungu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 👋 Hi, I’m Dedan Irungu.
+<div style="text-align:center; color:white; background: rgb(34,193,195); background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(198,45,253,1) 100%);">
+    <h3>Hi, I’m Dedan Irungu.<h3>
+     <p>👀 I’m interested in improving business processes through automation.</p>
+</div>
+     
 - 👀 I’m interested in improving business processes through automation.
 - 🌱 Cureently I’m actively working on Mybizna ERP and Utupress sitebuilder.
 - 💞️ I’m looking to help in making ERP and Sitebuilder Possible.
