@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 -->
-<img width="100%" src="https://dedanirungu.github.io/dedanirungu/github-top-banner.jpg" />
+<img width="100%" src="https://dedanirungu.github.io/dedanirungu/dedan-irungu-business-card.jpg" />
 
 - 🌱 Cureently I’m actively working on Mybizna ERP and Utupress sitebuilder.
 
